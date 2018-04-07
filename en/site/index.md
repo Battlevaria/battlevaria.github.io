@@ -15,7 +15,7 @@ order: 3
     <img src="/images/Kugelbach-map.jpg" title="Map of Kugelbach" align="right"/>
 </div>
 
-The [Jugendhaus Kugelbach](http://www.jugendhaus-kugelbach.de/) is located in the Bayerischer Wald, an area of rolling hills and scattered forests about 2 hours' drive north of Munich. It lies close to the B85 road between Cham and Regen, making it easy to reach by car.
+The [Jugendhaus Kugelbach](http://www.jugendhaus-kugelbach.de/) is located in the [Bayerischer Wald](https://goo.gl/maps/FjknH23jury), an area of rolling hills and scattered forests about 2 hours' drive north of Munich. It lies close to the B85 road between Cham and Regen, making it easy to reach by car.
 
 The fighting field, north of the entry road, measures about 50 by 60 meters. Between the road and the houses is a slope, not useful for fighting. At the bottom of the slope, across the parking lot, is the tent area, along the Kugelbach stream. 
 
