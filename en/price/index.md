@@ -17,4 +17,6 @@ There is a limited number of **bunk beds** available on a first-come first-serve
 
 If you only want to participate Saturday, you can do that for €10.00, or €20.00 if you want food as well.
 
-Transport to and from Munich is still being sorted out, but will likely cost €20.00 total.
+**Transport** to and from Munich is still being sorted out, but will likely cost €20.00 total.
+
+**Fighting equipment** will be available for use by those who don't bring their own, against a deposit. This equipment will also be available to buy at the end of the event, should you want to continue fighting in your home area.
