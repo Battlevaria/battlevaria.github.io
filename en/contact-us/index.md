@@ -3,7 +3,7 @@ layout: article
 title: Contact Us
 lang: en
 permalink: contact-us.html
-order: 5
+order: 6
 ---
 
 # Contact Us

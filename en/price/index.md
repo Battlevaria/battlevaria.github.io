@@ -4,7 +4,7 @@ title: Price
 ref: price
 lang: en
 permalink: price.html
-order: 4
+order: 5
 ---
 
 # Price
