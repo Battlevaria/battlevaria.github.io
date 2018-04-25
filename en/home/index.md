@@ -44,7 +44,7 @@ order: 1
     </div><div class="art-layout-cell layout-item-2" style="width: 34%">
         <h3 style="text-align: center;">Sleeping</h3><p><span style="color: rgb(54, 54, 54);">We have about 35 indoors sleeping places and plenty of space to put up tents.</span><span style="color: rgb(54, 54, 54);"></span></p><p><br></p>
     </div><div class="art-layout-cell layout-item-2" style="width: 33%">
-        <h3 style="text-align: center;">Pre-Register</h3><p>Please pre-register. A full registration process will follow as we get closer to the event and more details are added.<br></p><p><br></p>
+        <h3 style="text-align: center;">Sign-up</h3><p>We are now open for sign-up. See <a href="price">details on prices here</a>.<br></p><p><br></p>
     </div>
     </div>
 </div>
