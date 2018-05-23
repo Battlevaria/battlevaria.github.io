@@ -20,6 +20,7 @@ President: Lars Clausen, Treffauerstrasse 19, München
 
 
 
+<a name="datenschutserklarung"/>
 <h1>Datenschutzerklärung</h1>
 <h2>1. Datenschutz auf einen Blick</h2>
 <h3>Allgemeine Hinweise</h3> <p>Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.</p>
@@ -101,6 +102,7 @@ Email: info@netregistry.com.au</p>
  
 
 
+<a name="impressum"/>
 <h1>Impressum</h1>
 
 <h2>Angaben gemäß § 5 TMG:</h2>
