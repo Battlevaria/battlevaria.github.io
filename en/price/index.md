@@ -9,17 +9,33 @@ order: 5
 
 # Price
 
-**The base price to participate is €20.00 for the full weekend.**
+#### The base price to participate is €20.00 for the full weekend.
 
-**Food** (Friday evening, Saturday morning/midday/evening, and Sunday morning/midday) is available for an extra €20.00.
+### Early-bird: Sign up before July 20th and get 10% off the full cost!
+
+#### Food
+
+You can get **food** Friday evening, Saturday
+morning/midday/evening, and Sunday morning/midday for an extra
+€20.00. If you want to make your own food, be warned that there may be
+limits on the use of open fire if the area is dry.
+
+#### Lodging
 
 There is a limited number of **bunk beds** available on a first-come first-serve basis, at an extra €15.00 for the weekend. If demand is high, a few extra beds can be put on the floor. There is also plenty of space available to put up **tents** - we may be able to arrange spare tents for visitors from far away.
 
-**Saturday-only participation** is possible for €10.00, or €20.00 if you want food as well.
+#### Saturday-only participation
+If you just want to join us for **the main battles Saturday**, that is possible for €10.00, or €20.00 if you want food as well.
 
-**Transport** to and from Munich is still being sorted out, but will
+#### Transport
+**Transportation to and from Munich** is still being sorted out, but will
   likely cost between €20 and €40 total.
 
-**Fighting equipment** will be available for use by those who don't bring their own, against a deposit. This equipment will also be available to buy at the end of the event, should you want to continue fighting in your home area.
+#### Fighting equipment
+If you can't bring your own **Belegarth-legal fighting equipment**, weapons and
+some shields will be available for use, against a deposit. This
+equipment will also be available to buy at the end of the event,
+should you want to continue fighting in your home area. Most LARP
+weapons are *not* Belegarth-legal.
 
 <h1 class="signup"><a href='https://docs.google.com/forms/d/e/1FAIpQLSdhVjtDF7fLlCbYY0lGghZ5XQwr-HlJdyX0wkcX8pwUjxLirw/viewform'>Sign up now!</a></h1>
