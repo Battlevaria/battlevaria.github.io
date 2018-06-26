@@ -43,7 +43,7 @@ Your swords, halberds, and glaives will most likely not be accepted.
 
 ### For LARPers
 
-*This is not a LARP, this is a battle!* But you are welcome to add a touch of drama by playing a certain character, dying dramatically, etc - the roleplay just doesn't have any rules effect.
+*This is not your normal LARP, this is a battle!* The focus is on the fight, but you are welcome to add a touch of drama by playing a certain character, dying dramatically, etc - the roleplay just doesn't have any rules effect.
 
 In particular:
 
