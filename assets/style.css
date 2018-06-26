@@ -313,6 +313,12 @@ ul.art-vmenu a
    text-align: left;
 }
 
+.bg-fight-image {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.0)),url("/images/large-battle-2.jpg");
+height: 200px;
+margin-top: -55px;
+}
+
 header, footer, article, nav, #art-hmenu-bg, .art-sheet, .art-hmenu a, .art-vmenu a, .art-slidenavigator > a, .art-checkbox:before, .art-radiobutton:before
 {
    -webkit-background-origin: border !important;

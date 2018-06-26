@@ -13,7 +13,9 @@ order: 1
                         <div class="art-layout-cell art-content"><article class="art-post art-article">
                                 
                                                 
-                <div class="art-postcontent art-postcontent-0 clearfix"><div class="art-content-layout">
+                <div class="art-postcontent art-postcontent-0 clearfix">
+				<div class="bg-fight-image"></div>
+				<div class="art-content-layout">
     <div class="art-content-layout-row responsive-layout-row-2">
     <div class="art-layout-cell layout-item-0" style="width: 33%">
         <span style="font-weight: bold; font-size: 24px;">Battlevaria I</span><br><span style="font-weight: bold; font-size: 16px;">"Auf sie mit Gebrüll"</span><br>A Monachium e.V. event<br><br><span style="font-size: 18px;">17. - 19. Aug 2018<br>94267 Prackenbach, Germany</span><br><br>
