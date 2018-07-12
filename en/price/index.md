@@ -28,8 +28,7 @@ There is a limited number of **bunk beds** available on a first-come first-serve
 If you just want to join us for **the main battles Saturday**, that is possible for €10.00, or €20.00 if you want food as well.
 
 #### Transport
-**Transportation to and from Munich** is still being sorted out, but will
-  likely cost between €20 and €40 total.
+**Transportation to and from Munich** will be done as ride-sharing.
 
 #### Fighting equipment
 If you can't bring your own **Belegarth-legal fighting equipment**, weapons and
