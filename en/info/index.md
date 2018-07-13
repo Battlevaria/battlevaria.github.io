@@ -9,7 +9,34 @@ order: 2
 
 ## Info
 
-### General
+### Schedule
+
+All times are approximate for now.
+
+#### Friday
+
+16:00 Site opens for entry. Come meet the troll!
+18:00-19:00 Dinner
+19:00-19:30 Introduction
+19:30-21:00 Workshops
+
+#### Saturday
+
+9:00 - 10:00 Breakfast
+10:00 - 13:00 Battles
+13:00 - 14:00 Lunch
+14:00 - 17:00 Battles
+18:00 - 19:00 Dinner
+
+#### Sunday
+
+9:00 - 10:00 Breakfast
+10:00 - 12:00 Battles
+12:00 - 13:00 Lunch
+13:00 - 14:00 Clear out of buildings
+14:00 Event is over, go home, relax
+
+### Rules
 
 We follow the [Belegarth rules](http://www.belegarth.com/getting-started/rules/) with the following exceptions:
 
