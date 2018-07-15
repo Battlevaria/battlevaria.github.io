@@ -314,9 +314,10 @@ ul.art-vmenu a
 }
 
 .bg-fight-image {
-    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.0)),url("/images/large-battle-2.jpg");
-height: 200px;
-margin-top: -55px;
+   background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.0)),url("/images/large-battle-2.jpg");
+   height: 200px;
+   margin-top: -55px;
+   transformX: -1;
 }
 
 header, footer, article, nav, #art-hmenu-bg, .art-sheet, .art-hmenu a, .art-vmenu a, .art-slidenavigator > a, .art-checkbox:before, .art-radiobutton:before
