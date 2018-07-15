@@ -313,13 +313,6 @@ ul.art-vmenu a
    text-align: left;
 }
 
-.bg-fight-image {
-   background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.0)),url("/images/large-battle-2.jpg");
-   height: 200px;
-   margin-top: -55px;
-   transformX: -1;
-}
-
 header, footer, article, nav, #art-hmenu-bg, .art-sheet, .art-hmenu a, .art-vmenu a, .art-slidenavigator > a, .art-checkbox:before, .art-radiobutton:before
 {
    -webkit-background-origin: border !important;
@@ -2639,6 +2632,7 @@ tr.Navigator td, td span.Navigator
 
 h1.signup {
     text-align: center;
+    white-space: nowrap;
 }
 
 h1.signup a, h1.signup a:visited, h1.signup a:link {
@@ -2658,3 +2652,11 @@ h1.signup a:active {
     box-shadow: 0px 0px 2px 2px grey;
     border: 2px solid black;
 }
+
+.bg-fight-image {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.0)),url("/images/large-battle-2.jpg");
+    height: 200px;
+    margin-top: -55px;
+    transform: scaleX(-1);
+}
+
