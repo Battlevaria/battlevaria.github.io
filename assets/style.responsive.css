@@ -284,6 +284,18 @@
 {
    width: 100%;
 }
+
+.responsive .battle-image
+{
+   background-position-x: -35px;
+}
+
+@media (max-width: 600px)
+.battle-image
+{
+   background-position-x: -220px;
+}
+
 /* dynamic width nav */
 .responsive nav.art-nav,
 .responsive .art-nav-inner
