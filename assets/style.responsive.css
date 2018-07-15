@@ -545,8 +545,7 @@
    background-position-x: -35px;
 }
 
-@media (max-width: 600px)
-.bg-fight-image
+@media (max-width: 600px) .responsive .bg-fight-image
 {
    background-position-x: -220px;
 }
