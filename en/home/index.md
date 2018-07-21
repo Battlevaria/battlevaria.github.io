@@ -21,7 +21,7 @@ order: 1
         <span style="font-weight: bold; font-size: 24px;">Battlevaria I</span><br><span style="font-weight: bold; font-size: 16px;">"Auf sie mit Gebrüll"</span><br>A Monachium e.V. event<br><br><span style="font-size: 18px;">17. - 19. Aug 2018<br>94267 Prackenbach, Germany</span><br><br>
     </div><div class="art-layout-cell layout-item-1" style="width: 67%">
         <h1 class="signup"><a href='https://docs.google.com/forms/d/e/1FAIpQLSdhVjtDF7fLlCbYY0lGghZ5XQwr-HlJdyX0wkcX8pwUjxLirw/viewform'>Sign up now!</a></h1>
-		<h4 style="text-align:center;"> - and get a 10% Early-Bird discount (until July 20th)</h4>
+		<h4 style="text-align:center;">last day to sign up for food is July 29th!</h4>
         <p>We are getting ready to run the first-ever Belegarth event in Europe! There will be fighting! Feasting! More fighting! Entertainment! Even more fighting! </p><p><span style="font-size: 20px; font-weight: bold;">DATE: 17.-19. Aug 2018</span></p><p>LOCATION:&nbsp;<a href='http://www.jugendhaus-kugelbach.de/'>Jugendhaus Kugelbach</a>, <a href='https://www.google.de/maps/place/Jugendhaus+Kugelbach+LARP+Gel%C3%A4nde+-+Taverne+-+Bayern/@49.12153,12.793976,15z/data=!4m2!3m1!1s0x0:0xe0366edd979e86ee?sa=X&ved=0ahUKEwjg6eXFiuDZAhVE2ywKHYdhB3sQ_BIIhAEwDQ'>94267 Prackenbach, Germany</a></p><p><br></p>
     </div>
     </div>
