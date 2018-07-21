@@ -11,7 +11,7 @@ order: 5
 
 #### The base price to participate is €20.00 for the full weekend.
 
-### Early-bird: Sign up before July 20th and get 10% off the full cost!
+### If you want the site food, you must sign up before July 29th!
 
 #### Food
 
