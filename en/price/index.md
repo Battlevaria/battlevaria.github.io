@@ -11,7 +11,7 @@ order: 5
 
 #### The base price to participate is €20.00 for the full weekend.
 
-### If you want the site food, you must sign up before July 29th!
+### If you want the site food, you must sign up TODAY!
 
 #### Food
 
