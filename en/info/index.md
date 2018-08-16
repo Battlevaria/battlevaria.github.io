@@ -16,17 +16,19 @@ All times are approximate for now. Start and end times may expand depending on w
 #### Friday
 
 16:00 Site opens for entry. Come meet the troll!  
-18:00-19:00 Dinner (for those with food tickets)  
-19:00-19:30 Group Introduction  
-19:30-21:00 Workshops (including intro to Belegarth)  
+18:30-19:30 Dinner (for those with food tickets)  
+19:30-20:00 Group Introduction  
+20:00-21:30 Workshops (including intro to Belegarth)  
 
 #### Saturday
 
 9:00 - 10:00 Breakfast (for those with food tickets)  
 10:00 - 13:00 Field Battles  
-13:00 - 14:00 Lunch (for those with food tickets)  
+13:00 - 14:00 Lunch (for those with food tickets)
+13:30 - 13:30 Workshops
 14:00 - 17:00 Field Battles  
 18:00 - 19:00 Dinner (for those with food tickets)  
+19:00 - 21:00 Workshops
 19:00 - late Entertainment in the Tavern
 
 #### Sunday
