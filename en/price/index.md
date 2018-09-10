@@ -11,8 +11,6 @@ order: 5
 
 #### The base price to participate is €20.00 for the full weekend.
 
-### The deadline for signing up for site food and beds has passed, sorry.
-
 #### Food
 
 Those who signed up in time will get **food** Friday evening, Saturday
@@ -38,5 +36,3 @@ some shields will be available for use, against a deposit. This
 equipment will also be available to buy at the end of the event,
 should you want to continue fighting in your home area. Most LARP
 weapons are *not* Belegarth-legal.
-
-<h1 class="signup"><a href='https://docs.google.com/forms/d/e/1FAIpQLSdhVjtDF7fLlCbYY0lGghZ5XQwr-HlJdyX0wkcX8pwUjxLirw/viewform'>Sign up now!</a></h1>
