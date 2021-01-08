@@ -108,7 +108,7 @@ order: 1
                                 </div>
                                 <div class="art-layout-cell layout-item-2" style="width: 33%">
                                     <h3 style="text-align: center;">Sign-up</h3>
-                                    <p>We are now open for sign-up. See <a href="price">details on prices here</a>.<br>
+                                    <p>Sign-up will open later in the year. We will post <a href="price">details on prices here</a>.<br>
                                     </p>
                                     <p><br></p>
                                 </div>
