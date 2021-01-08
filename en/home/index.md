@@ -44,7 +44,7 @@ order: 1
     <div class="art-layout-cell layout-item-2" style="width: 33%">
         <h3 style="text-align: center;">Food</h3><p><span style="color: rgb(54, 54, 54);">We will have full board at the location as well as the use of a tavern.</span></p><p><span style="color: rgb(54, 54, 54);">Depending on fire safety in August we plan to have an open fire roast.</span></p>
     </div><div class="art-layout-cell layout-item-2" style="width: 34%">
-        <h3 style="text-align: center;">Sleeping</h3><p><span style="color: rgb(54, 54, 54);">We have about 35 indoors sleeping places and plenty of space to put up tents.</span><span style="color: rgb(54, 54, 54);"></span></p><p><br></p>
+        <h3 style="text-align: center;">Sleeping</h3><p><span style="color: rgb(54, 54, 54);">We have about 46 indoors sleeping places and plenty of space to put up tents.</span><span style="color: rgb(54, 54, 54);"></span></p><p><br></p>
     </div><div class="art-layout-cell layout-item-2" style="width: 33%">
         <h3 style="text-align: center;">Sign-up</h3><p>We are now open for sign-up. See <a href="price">details on prices here</a>.<br></p><p><br></p>
     </div>
