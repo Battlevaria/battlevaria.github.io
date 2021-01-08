@@ -19,15 +19,18 @@ order: 1
                         <div class="art-content-layout">
                             <div class="art-content-layout-row responsive-layout-row-2">
                                 <div class="art-layout-cell layout-item-0" style="width: 33%">
-                                    <span style="font-weight: bold; font-size: 24px;">Battlevaria I</span><br><span
-                                        style="font-weight: bold; font-size: 16px;">"Auf sie mit Gebrüll"</span><br>A
-                                    Monachium e.V. event<br><br><span style="font-size: 18px;">20. - 22. Aug
-                                        2021<br>94267 Prackenbach, Germany</span><br><br>
+                                    <span style="font-weight: bold; font-size: 24px;">Battlevaria II</span>
+                                    <br>
+                                    <span style="font-weight: bold; font-size: 16px;">"Auf sie mit Gebrüll"</span>
+                                    <br>A Monachium e.V. event<br>
+                                    <br>
+                                    <span style="font-size: 18px;">20. - 22. Aug 2021<br>94267 Prackenbach, Germany</span><br><br>
                                 </div>
                                 <div class="art-layout-cell layout-item-1" style="width: 67%">
-                                    <i>Battlevaria I is over. Stay tuned for Battlevaria II</i>
-                                    <p>We are getting ready to run the first-ever Belegarth event in Europe! There will
-                                        be fighting! Feasting! More fighting! Entertainment! Even more fighting! </p>
+                                    <i>Battlevaria II approaches!</i>
+                                    <p>After the Year of the Great Plague, war breaks out in Bavaria!
+                                        Take your place in the armies at Battlevaria II,
+                                        where great battles and much feasting will take place.</p>
                                     <p><span style="font-size: 20px; font-weight: bold;">DATE: 20. - 22. Aug 2021</span>
                                     </p>
                                     <p>LOCATION:&nbsp;<a href='http://www.jugendhaus-kugelbach.de/'>Jugendhaus

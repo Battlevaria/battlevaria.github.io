@@ -10,7 +10,7 @@ order: 6
 
 ### Monachium e.V.
 
-President: Lars Clausen, Treffauerstrasse 19, München
+President: Sascha Müller, Oberseestraße 4, 81825 München 
 
 ### Our Address
 
@@ -27,14 +27,14 @@ President: Lars Clausen, Treffauerstrasse 19, München
 <h3>Analyse-Tools und Tools von Drittanbietern</h3> <p>Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit Cookies und mit sogenannten Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zurückverfolgt werden. Sie können dieser Analyse widersprechen oder sie durch die Nichtbenutzung bestimmter Tools verhindern. Detaillierte Informationen dazu finden Sie in der folgenden Datenschutzerklärung.</p> <p>Sie können dieser Analyse widersprechen. Über die Widerspruchsmöglichkeiten werden wir Sie in dieser Datenschutzerklärung informieren.</p>
 <h2>2. Allgemeine Hinweise und Pflichtinformationen</h2>
 <h3>Datenschutz</h3> <p>Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.</p> <p>Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.</p> <p>Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
-<h3>Hinweis zur verantwortlichen Stelle</h3> <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p> <p>Netregistry Pty Ltd<br />
-PO Box 270,<br />
-Broadway, Sydney NSW 2007<br />
-Australia<br />
-https://www.netregistry.com.au</p>
-
-<p>Telefon: +61 (2) 9215 6001<br />
-E-Mail: info@netregistry.com.au</p>
+<h3>Hinweis zur verantwortlichen Stelle</h3> <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
+<p>
+    Lars Clausen<br />
+    Treffauerstrasse 19<br />
+    81373 München<br />
+    Deutschland<br />
+    Tlf: +49 151 412 69 421<br />
+    Email: lars@raeder.dk<br />
  <p>Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.</p>
 <h3>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3> <p>Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.</p>
 <h3>Recht auf Datenübertragbarkeit</h3> <p>Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.</p>
@@ -97,17 +97,17 @@ Email: info@netregistry.com.au</p>
 <a name="impressum"/>
 <h1>Impressum</h1>
 
-<h2>Angaben gemäß § 5 TMG:</h2>
+<h2>Angaben gemäß §5 TMG:</h2>
 <p>Monachium e.V.<br />
-Treffauerstraße 19<br />
-z.H. Lars Clausen<br />
-81373  München</p>
+Oberseestraße 4<br />
+z.H. Sascha Müller<br />
+81825 München</p>
 
 <h2>Vertreten durch:</h2>
 <p>Lars Clausen</p>
 
 <h2>Kontakt:</h2>
-<p>Telefon: 0151-41269421 <br />
+<p>Telefon: +49 151 412 69 421<br />
 E-Mail: lars@raeder.dk</p>
 
 <h2>Streitschlichtung</h2>
@@ -119,15 +119,15 @@ E-Mail: lars@raeder.dk</p>
 
 <h2>Information provided according to Sec. 5 German Telemedia Act (TMG):</h2>
 <p>Monachium e.V.<br />
-Treffauerstraße 19<br />
-z.H. Lars Clausen<br />
-81373  München</p>
+Oberseestraße 4<br />
+z.H. Sascha Müller<br />
+81825 München</p>
 
 <h2>Represented by:</h2>
 <p>Lars Clausen</p>
 
 <h2>Contact:</h2>
-<p>Telephone: 0151-41269421 <br />
+<p>Telephone: +49 151 412 69 421<br />
 Email: lars@raeder.dk</p>
 
 <h2>Dispute resolution</h2>

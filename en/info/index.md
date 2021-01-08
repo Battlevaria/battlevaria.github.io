@@ -24,12 +24,11 @@ All times are approximate for now. Start and end times may expand depending on w
 
 9:00 - 10:00 Breakfast (for those with food tickets)  
 10:00 - 13:00 Field Battles  
-13:00 - 14:00 Lunch (for those with food tickets)
-13:30 - 13:30 Workshops
+13:00 - 14:00 Lunch (for those with food tickets)  
 14:00 - 17:00 Field Battles  
 18:00 - 19:00 Dinner (for those with food tickets)  
-19:00 - 21:00 Workshops
-19:00 - late Entertainment in the Tavern
+19:00 - 21:00 Workshops 
+19:00 - late Entertainment in the Tavern  
 
 #### Sunday
 
@@ -37,17 +36,19 @@ All times are approximate for now. Start and end times may expand depending on w
 10:00 - 12:00 Field Battles  
 12:00 - 13:00 Lunch (for those with food tickets)  
 13:00 - 14:00 Clear out of buildings  
-14:00 Event is over, go home, relax  
+14:00 - Event is over, go home, relax  
 
 ### Rules
 
 We follow the [Belegarth rules](http://www.belegarth.com/getting-started/rules/) with the following exceptions:
 
-* Limbs disabled stabbing weapons work like limbs disabled by hacking weapons. 
+* Limbs disabled by stabbing weapons work like limbs disabled by hacking weapons. 
 
 ### For Americans 
 
-Remember that nobody from this side of the Atlantic have experience Belegarth in the US. Things that seem obvious to you may be unknown here. Use this opportunity to show people how just how great Belegarth can be in all ways.
+Remember that hardly anybody from this side of the Atlantic has experienced Belegarth in the US.
+Things that seem obvious to you may be unknown here.
+Use this opportunity to show people just how great Belegarth can be in all ways.
 
 ### For Finns
 
@@ -62,7 +63,7 @@ Belegarth is fairly similar to Sotahuuto, but there are important differences:
 * Two-handed ("red") weapons when used with two hands can destroy a shield with two hits.
 * Stabbing with one hand cannot penetrate armor, stabbing with two hands ignores armor.
 
-Some of your equipemnt can be used (subject to weapons check like all weapons):
+Some of your equipment can be used (subject to weapons check like all weapons):
 
 * Your arrows are fine, our maximum draw strength is 35# at 28" (half draw within 6 meters).
 * Your javelins are fine. In fact, they're better than most Belegarth ones.

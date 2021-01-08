@@ -9,7 +9,7 @@ order: 5
 
 # Price
 
-#### The base price to participate is €20.00 for the full weekend.
+#### The prices bellow are approximations and will change.
 
 #### Food
 
@@ -20,7 +20,7 @@ limits on the use of open fire if the area is dry.
 
 #### Lodging
 
-All the available **bunk beds** have been reserved. The site provides pilows and covers, but not bedsheets. If you can't bring your own bedsheets, they have a few available for rent at €3 per night. Do not use sleeping bags in the beds.
+**Bunk beds** will be available for reservation against a fee. The site provides pillows and blankets, but not beddings. If you can't bring your own beddings, they have a few available for rent at €5 per night. Do not use sleeping bags in the beds.
 
 There is also plenty of space available to put up **tents** - we may be able to arrange spare tents for visitors from far away.
 
