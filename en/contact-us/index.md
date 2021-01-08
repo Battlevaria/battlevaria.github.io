@@ -14,7 +14,7 @@ President: Lars Clausen, Treffauerstrasse 19, München
 
 ### Our Address
 
-#### Web: [http://www.monachium.org](http://www.monachium.org)
+#### Web: [https://www.monachium.org](https://www.monachium.org)
 
 #### Email: battlevaria@monachium.org
 
