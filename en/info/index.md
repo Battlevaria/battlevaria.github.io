@@ -27,7 +27,7 @@ All times are approximate for now. Start and end times may expand depending on w
 13:00 - 14:00 Lunch (for those with food tickets)  
 14:00 - 17:00 Field Battles  
 18:00 - 19:00 Dinner (for those with food tickets)  
-19:00 - 21:00 Workshops 
+19:00 - 21:00 Workshops  
 19:00 - late Entertainment in the Tavern  
 
 #### Sunday
