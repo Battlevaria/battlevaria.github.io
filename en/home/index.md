@@ -27,7 +27,7 @@ order: 1
                                     <span style="font-size: 18px;">In 2022<br>94267 Prackenbach, Germany</span><br><br>
                                 </div>
                                 <div class="art-layout-cell layout-item-1" style="width: 67%">
-                                    <i>Battlevaria II approaches!</i>
+                                    <i>Battlevaria II is postponed until the Plague is truly gone</i>
                                     <p>After the Years of the Great Plague, war breaks out in Bavaria!
                                         Take your place in the armies at Battlevaria II,
                                         where great battles and much feasting will take place.</p>
