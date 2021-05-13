@@ -31,7 +31,7 @@ order: 1
                                     <p>After the Years of the Great Plague, war breaks out in Bavaria!
                                         Take your place in the armies at Battlevaria II,
                                         where great battles and much feasting will take place.</p>
-                                    <p><span style="font-size: 20px; font-weight: bold;">DATE: Sometime in <span style="color:red;">2022</style></span>
+                                    <p><span style="font-size: 20px; font-weight: bold;">DATE: Sometime in <span style="color:red;">2022</span></span>
                                     </p>
                                     <p>LOCATION:&nbsp;<a href='http://www.jugendhaus-kugelbach.de/'>Jugendhaus
                                             Kugelbach</a>, <a
