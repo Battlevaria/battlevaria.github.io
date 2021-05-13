@@ -24,14 +24,14 @@ order: 1
                                     <span style="font-weight: bold; font-size: 16px;">"Auf sie mit Gebrüll"</span>
                                     <br>A Monachium e.V. event<br>
                                     <br>
-                                    <span style="font-size: 18px;">20. - 22. Aug 2021<br>94267 Prackenbach, Germany</span><br><br>
+                                    <span style="font-size: 18px;">In 2022<br>94267 Prackenbach, Germany</span><br><br>
                                 </div>
                                 <div class="art-layout-cell layout-item-1" style="width: 67%">
                                     <i>Battlevaria II approaches!</i>
-                                    <p>After the Year of the Great Plague, war breaks out in Bavaria!
+                                    <p>After the Years of the Great Plague, war breaks out in Bavaria!
                                         Take your place in the armies at Battlevaria II,
                                         where great battles and much feasting will take place.</p>
-                                    <p><span style="font-size: 20px; font-weight: bold;">DATE: 20. - 22. Aug 2021</span>
+                                    <p><span style="font-size: 20px; font-weight: bold;">DATE: Sometime in <span style="color:red;">2022</style></span>
                                     </p>
                                     <p>LOCATION:&nbsp;<a href='http://www.jugendhaus-kugelbach.de/'>Jugendhaus
                                             Kugelbach</a>, <a
